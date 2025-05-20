@@ -1,0 +1,12 @@
+{
+  "name": "bilal-autos-ecommerce-website",
+  "version": "1.0.0",
+  "description": "Bilal Autos Ecommerce Website - static HTML, CSS, JS",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
